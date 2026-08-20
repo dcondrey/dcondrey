@@ -125,6 +125,49 @@ def get_activity_items():
     return lines
 
 
+def get_total_stars():
+    # Computed server-side instead of relying on the shared public
+    # github-readme-stats.vercel.app instance, which is frequently
+    # rate-limited/paused (observed DEPLOYMENT_PAUSED / 503 in practice).
+    import json
+
+    query = {
+        "query": (
+            'query { user(login: "%s") { repositories(first: 100, '
+            "ownerAffiliations: OWNER, isFork: false) { "
+            "nodes { stargazerCount } } } }" % GITHUB_USER
+        )
+    }
+    req = urllib.request.Request(
+        "https://api.github.com/graphql",
+        data=json.dumps(query).encode("utf-8"),
+        headers={
+            "User-Agent": "dcondrey-profile-readme-bot",
+            "Content-Type": "application/json",
+        },
+        method="POST",
+    )
+    token = os.environ.get("GH_TOKEN")
+    if not token:
+        raise RuntimeError("GH_TOKEN required for the GraphQL API")
+    req.add_header("Authorization", f"Bearer {token}")
+
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        data = json.loads(resp.read())
+
+    nodes = data["data"]["user"]["repositories"]["nodes"]
+    return sum(n["stargazerCount"] for n in nodes)
+
+
+def stars_badge_line(total):
+    label = "total%20stars"
+    url = (
+        f"https://img.shields.io/badge/{label}-{total}-yellow?"
+        "style=flat-square&logo=github"
+    )
+    return f"[![Total Stars]({url})](https://github.com/{GITHUB_USER}?tab=repositories&sort=stargazers)"
+
+
 def replace_block(content, marker, lines):
     start, end = f"<!-- {marker}:START -->", f"<!-- {marker}:END -->"
     pattern = re.compile(rf"({re.escape(start)}\n)(.*?)\n?({re.escape(end)})", re.DOTALL)
@@ -147,6 +190,7 @@ def main():
 
     content = replace_block(content, "BLOG", get_blog_items())
     content = replace_block(content, "ACTIVITY", get_activity_items())
+    content = replace_block(content, "STARS", [stars_badge_line(get_total_stars())])
 
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(content)

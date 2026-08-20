@@ -1,6 +1,6 @@
 import unittest
 
-from update_readme import replace_block
+from update_readme import replace_block, stars_badge_line
 
 
 class TestReplaceBlock(unittest.TestCase):
@@ -40,6 +40,17 @@ class TestReplaceBlock(unittest.TestCase):
         content = "<!-- BLOG:START -->\nold\n<!-- BLOG:END -->\n"
         result = replace_block(content, "BLOG", [r"- a \1 weird title"])
         self.assertIn(r"a \1 weird title", result)
+
+
+class TestStarsBadgeLine(unittest.TestCase):
+    def test_embeds_count_and_links_to_repos_sorted_by_stars(self):
+        line = stars_badge_line(187)
+        self.assertIn("total%20stars-187-yellow", line)
+        self.assertIn("github.com/dcondrey?tab=repositories&sort=stargazers", line)
+
+    def test_zero_is_valid(self):
+        line = stars_badge_line(0)
+        self.assertIn("total%20stars-0-yellow", line)
 
 
 if __name__ == "__main__":

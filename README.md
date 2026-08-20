@@ -10,6 +10,10 @@
 [![Email](https://img.shields.io/badge/email-david%40writerslogic.com-informational?style=flat-square)](mailto:david@writerslogic.com)
 
 [![GitHub followers](https://img.shields.io/github/followers/dcondrey?label=followers&style=flat-square)](https://github.com/dcondrey?tab=followers)
+<!-- STARS:START -->
+[![Total Stars](https://img.shields.io/badge/total%20stars-187-yellow?style=flat-square&logo=github)](https://github.com/dcondrey?tab=repositories&sort=stargazers)
+<!-- STARS:END -->
+[![Profile views](https://komarev.com/ghpvc/?username=dcondrey&style=flat-square&color=blue&label=profile+views)](https://github.com/dcondrey)
 [![IETF Datatracker](https://img.shields.io/badge/IETF-4%20active%20drafts-0055A4?style=flat-square)](https://datatracker.ietf.org/person/David%20Condrey)
 [![C2PA](https://img.shields.io/badge/C2PA-org%20member-1a1a2e?style=flat-square)](https://github.com/c2pa-org)
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/1922144?label=reputation&logo=stackoverflow&logoColor=white&style=flat-square&color=F48024)](https://stackoverflow.com/users/1922144/david-condrey)
