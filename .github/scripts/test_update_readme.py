@@ -1,6 +1,6 @@
 import unittest
 
-from update_readme import replace_block, stars_badge_line
+from update_readme import replace_block, stars_badge_line, traffic_line
 
 
 class TestReplaceBlock(unittest.TestCase):
@@ -51,6 +51,19 @@ class TestStarsBadgeLine(unittest.TestCase):
     def test_zero_is_valid(self):
         line = stars_badge_line(0)
         self.assertIn("total%20stars-0-yellow", line)
+
+
+class TestTrafficLine(unittest.TestCase):
+    def test_none_renders_not_configured_fallback(self):
+        line = traffic_line(None)
+        self.assertIn("Not configured", line)
+        self.assertIn("TRAFFIC_TOKEN", line)
+
+    def test_result_renders_views_and_clones(self):
+        line = traffic_line({"views": 42, "clones": 7, "repo_count": 10})
+        self.assertIn("14d%20views-42", line)
+        self.assertIn("14d%20clones-7", line)
+        self.assertIn("10 repos", line)
 
 
 if __name__ == "__main__":

@@ -75,6 +75,12 @@ Competitive results in AI-text detection and authorship analysis:
 - [`unicode-safety-check`](https://github.com/dcondrey/unicode-safety-check) — GitHub Action detecting adversarial Unicode in PRs (invisible chars, bidi attacks, homoglyphs)
 - [`html-email`](https://github.com/dcondrey/html-email) — zero-dependency, hand-authored HTML email framework, 28 documented client quirks
 
+### Repo traffic (last 14 days)
+
+<!-- TRAFFIC:START -->
+![14-day views](https://img.shields.io/badge/14d%20views-153-2ea44f?style=flat-square&logo=github) ![14-day clones](https://img.shields.io/badge/14d%20clones-757-2ea44f?style=flat-square&logo=github) _aggregated across 40 repos_
+<!-- TRAFFIC:END -->
+
 ### Latest from the blog
 
 <!-- BLOG:START -->
@@ -101,4 +107,4 @@ Competitive results in AI-text detection and authorship analysis:
 
 </div>
 
-<sub>Blog and activity sections above update automatically every 6 hours.</sub>
+<sub>Stars, traffic, blog, and activity sections above update automatically every 6 hours.</sub>

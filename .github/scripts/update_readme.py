@@ -125,17 +125,15 @@ def get_activity_items():
     return lines
 
 
-def get_total_stars():
-    # Computed server-side instead of relying on the shared public
-    # github-readme-stats.vercel.app instance, which is frequently
-    # rate-limited/paused (observed DEPLOYMENT_PAUSED / 503 in practice).
+def get_owned_repos():
+    """This user's owned, non-fork repos: [{"name": ..., "stargazerCount": ...}, ...]."""
     import json
 
     query = {
         "query": (
             'query { user(login: "%s") { repositories(first: 100, '
             "ownerAffiliations: OWNER, isFork: false) { "
-            "nodes { stargazerCount } } } }" % GITHUB_USER
+            "nodes { name stargazerCount } } } }" % GITHUB_USER
         )
     }
     req = urllib.request.Request(
@@ -155,8 +153,15 @@ def get_total_stars():
     with urllib.request.urlopen(req, timeout=15) as resp:
         data = json.loads(resp.read())
 
-    nodes = data["data"]["user"]["repositories"]["nodes"]
-    return sum(n["stargazerCount"] for n in nodes)
+    return data["data"]["user"]["repositories"]["nodes"]
+
+
+def get_total_stars(repos=None):
+    # Computed server-side instead of relying on the shared public
+    # github-readme-stats.vercel.app instance, which is frequently
+    # rate-limited/paused (observed DEPLOYMENT_PAUSED / 503 in practice).
+    repos = get_owned_repos() if repos is None else repos
+    return sum(r["stargazerCount"] for r in repos)
 
 
 def stars_badge_line(total):
@@ -166,6 +171,71 @@ def stars_badge_line(total):
         "style=flat-square&logo=github"
     )
     return f"[![Total Stars]({url})](https://github.com/{GITHUB_USER}?tab=repositories&sort=stargazers)"
+
+
+def get_traffic_total(repos=None):
+    """Aggregate 14-day views + clones across all owned repos.
+
+    Needs a classic PAT with `repo` scope (TRAFFIC_TOKEN) — the traffic
+    endpoints require push access to each repo, which the default
+    GITHUB_TOKEN in a workflow only has for the repo it's running in.
+    Returns None if TRAFFIC_TOKEN isn't set, so callers can render a
+    "not configured" fallback instead of failing the whole run.
+    """
+    import json
+
+    token = os.environ.get("TRAFFIC_TOKEN")
+    if not token:
+        return None
+
+    repos = get_owned_repos() if repos is None else repos
+    total_views = 0
+    total_clones = 0
+    counted = 0
+    for repo in repos:
+        name = repo["name"]
+        repo_total = {}
+        for endpoint in ("views", "clones"):
+            url = f"https://api.github.com/repos/{GITHUB_USER}/{name}/traffic/{endpoint}"
+            req = urllib.request.Request(
+                url,
+                headers={
+                    "User-Agent": "dcondrey-profile-readme-bot",
+                    "Accept": "application/vnd.github+json",
+                    "Authorization": f"Bearer {token}",
+                },
+            )
+            try:
+                with urllib.request.urlopen(req, timeout=15) as resp:
+                    repo_total[endpoint] = json.loads(resp.read()).get("count", 0)
+            except Exception:
+                repo_total[endpoint] = None  # this repo's traffic wasn't readable
+        if repo_total.get("views") is not None or repo_total.get("clones") is not None:
+            total_views += repo_total.get("views") or 0
+            total_clones += repo_total.get("clones") or 0
+            counted += 1
+
+    return {"views": total_views, "clones": total_clones, "repo_count": counted}
+
+
+def traffic_line(result):
+    if result is None:
+        return (
+            "_Not configured — add a classic PAT with `repo` scope as the "
+            "`TRAFFIC_TOKEN` repo secret to enable this._"
+        )
+    views_url = (
+        f"https://img.shields.io/badge/14d%20views-{result['views']}-2ea44f"
+        "?style=flat-square&logo=github"
+    )
+    clones_url = (
+        f"https://img.shields.io/badge/14d%20clones-{result['clones']}-2ea44f"
+        "?style=flat-square&logo=github"
+    )
+    return (
+        f"![14-day views]({views_url}) ![14-day clones]({clones_url}) "
+        f"_aggregated across {result['repo_count']} repos_"
+    )
 
 
 def replace_block(content, marker, lines):
@@ -188,9 +258,12 @@ def main():
     with open(README_PATH, encoding="utf-8") as f:
         content = f.read()
 
+    repos = get_owned_repos()
+
     content = replace_block(content, "BLOG", get_blog_items())
     content = replace_block(content, "ACTIVITY", get_activity_items())
-    content = replace_block(content, "STARS", [stars_badge_line(get_total_stars())])
+    content = replace_block(content, "STARS", [stars_badge_line(get_total_stars(repos))])
+    content = replace_block(content, "TRAFFIC", [traffic_line(get_traffic_total(repos))])
 
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(content)

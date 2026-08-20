@@ -27,6 +27,10 @@ jobs:
         working-directory: .github/scripts
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: classic PAT with `repo` scope, for the repo-traffic
+          # section. The default GITHUB_TOKEN above can't read other repos'
+          # traffic. Unset until added — the script falls back gracefully.
+          TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
 
       - name: Commit and push if changed
         run: |
