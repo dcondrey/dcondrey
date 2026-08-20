@@ -2,10 +2,17 @@
 
 # David Condrey
 
-Writer, developer, Marine Corps vet.
-Content provenance, AI agent tooling, and applied ML.
+**Writer, developer, Marine Corps veteran.** Based in San Diego, building [WritersLogic](https://writerslogic.com) — local-first, cryptographic proof-of-authorship tools for writers — and individually authoring the [IETF drafts](https://datatracker.ietf.org/person/David%20Condrey) that formalize the protocol behind them. Contributes to C2PA and W3C standards work, builds open-source AI agent tooling, and competes in applied-ML research (PAN & CLEF).
+📍 San Diego, CA
 
+[![Website](https://img.shields.io/badge/writerslogic.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://writerslogic.com)
+[![Twitter](https://img.shields.io/badge/-@davidcondrey-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/davidcondrey)
 [![Email](https://img.shields.io/badge/email-david%40writerslogic.com-informational?style=flat-square)](mailto:david@writerslogic.com)
+
+[![GitHub followers](https://img.shields.io/github/followers/dcondrey?label=followers&style=flat-square)](https://github.com/dcondrey?tab=followers)
+[![IETF Datatracker](https://img.shields.io/badge/IETF-4%20active%20drafts-0055A4?style=flat-square)](https://datatracker.ietf.org/person/David%20Condrey)
+[![C2PA](https://img.shields.io/badge/C2PA-org%20member-1a1a2e?style=flat-square)](https://github.com/c2pa-org)
+
 [![Ko-fi](https://img.shields.io/badge/support-ko--fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/davidcondrey)
 [![PayPal](https://img.shields.io/badge/support-paypal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/davidcondrey)
 [![Buy Me a Coffee](https://img.shields.io/badge/support-buy--me--a--coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/davidcondrey)
@@ -14,17 +21,34 @@ Content provenance, AI agent tooling, and applied ML.
 
 ---
 
-### Content authenticity & provenance standards
+### Building at WritersLogic
 
-Working across the [C2PA](https://c2pa.org) and adjacent standards bodies on how content gets its provenance verified:
+["We Build Proof of Authorship."](https://writerslogic.com) Local-first, open-standard tools for writers to prove their work is their own:
 
-- [`c2pa-rs`](https://github.com/dcondrey/c2pa-rs) — Rust SDK for the core C2PA specification
-- [`c2pa-text`](https://github.com/dcondrey/c2pa-text) — reference implementation for C2PA text embedding
-- [`specifications`](https://github.com/dcondrey/specifications) — the public C2PA specifications
-- [`softbinding-algorithm-list`](https://github.com/dcondrey/softbinding-algorithm-list) — approved C2PA soft-binding algorithms
-- [`cawg-identity-assertion`](https://github.com/dcondrey/cawg-identity-assertion) / [`cawg-process-proof-assertion`](https://github.com/dcondrey/cawg-process-proof-assertion) — Creator Assertions Working Group
-- [`ai-content-disclosure`](https://github.com/dcondrey/ai-content-disclosure) — W3C AI Content Disclosure Community Group
-- IETF drafts: [`unicode-content-binding`](https://github.com/dcondrey/unicode-content-binding), [`rats-privacy-framework`](https://github.com/dcondrey/rats-privacy-framework), [`draft-reddy-rats-key-binding`](https://github.com/dcondrey/draft-reddy-rats-key-binding), [`draft-bryce-cose-receipts-mmr-profile`](https://github.com/dcondrey/draft-bryce-cose-receipts-mmr-profile), and a CFRG draft under my own name, [`posme-draft`](https://github.com/dcondrey/posme-draft) (Proof of Sequential Memory Execution)
+- **WritersProof** — desktop app that records typing patterns as evidence of authorship
+- **Scrivener MCP** — open-source AI collaboration tool for Scrivener
+- **Holographic Memory** — privacy-preserving search that processes everything locally
+
+---
+
+### IETF drafts
+
+Individually authored, tracked on the [IETF Datatracker](https://datatracker.ietf.org/person/David%20Condrey):
+
+- [`draft-condrey-rats-pop-protocol`](https://datatracker.ietf.org/doc/draft-condrey-rats-pop-protocol/) (-06) — Proof of Process: architecture and evidence format
+- [`draft-condrey-rats-pop-appraisal`](https://datatracker.ietf.org/doc/draft-condrey-rats-pop-appraisal/) (-04) — Proof of Process: forensic appraisal and security model
+- [`draft-condrey-posme`](https://datatracker.ietf.org/doc/draft-condrey-posme/) (CFRG) — Proof of Sequential Memory Execution
+- [`draft-condrey-content-binding`](https://datatracker.ietf.org/doc/draft-condrey-content-binding/) — content binding for text streams
+
+The PoP drafts extend RATS architecture to bind authorship evidence to document evolution — the protocol layer behind WritersProof above.
+
+### Contributing to
+
+Public member, [c2pa-org](https://github.com/c2pa-org). Submitted PRs (mixed merged/open) to:
+
+- [C2PA specifications](https://github.com/c2pa-org/specifications) — search infra, spec fixes
+- [C2PA soft-binding algorithm list](https://github.com/c2pa-org/softbinding-algorithm-list)
+- [W3C AI Content Disclosure CG](https://github.com/w3c-cg/ai-content-disclosure)
 
 ### AI agent tooling
 
@@ -46,6 +70,23 @@ Competitive results in AI-text detection and authorship analysis:
 - [`unicode-safety-check`](https://github.com/dcondrey/unicode-safety-check) — GitHub Action detecting adversarial Unicode in PRs (invisible chars, bidi attacks, homoglyphs)
 - [`html-email`](https://github.com/dcondrey/html-email) — zero-dependency, hand-authored HTML email framework, 28 documented client quirks
 
+### Latest from the blog
+
+<!-- BLOG:START -->
+- [Write For Us](https://writerslogic.com/blog/write-for-us) — 2026-03-30
+- [Universities Rethinking AI Detection](https://writerslogic.com/blog/universities-rethinking-ai-detection) — 2026-03-29
+- [Freelancers Guide Proving Authorship](https://writerslogic.com/blog/freelancers-guide-proving-authorship) — 2026-03-14
+<!-- BLOG:END -->
+
+### Recent activity
+
+<!-- ACTIVITY:START -->
+- Opened PR in [dcondrey/ai-disclosure-badges](https://github.com/dcondrey/ai-disclosure-badges)
+- Opened issue in [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails)
+- Opened PR in [writerslogic/onrecord](https://github.com/writerslogic/onrecord)
+- Opened issue in [writerslogic/onrecord](https://github.com/writerslogic/onrecord)
+<!-- ACTIVITY:END -->
+
 ### GitHub
 
 <div align="center">
@@ -54,3 +95,5 @@ Competitive results in AI-text detection and authorship analysis:
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcondrey&layout=compact&hide_border=true)
 
 </div>
+
+<sub>Blog and activity sections above update automatically every 6 hours.</sub>
