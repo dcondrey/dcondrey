@@ -12,6 +12,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/dcondrey?label=followers&style=flat-square)](https://github.com/dcondrey?tab=followers)
 [![IETF Datatracker](https://img.shields.io/badge/IETF-4%20active%20drafts-0055A4?style=flat-square)](https://datatracker.ietf.org/person/David%20Condrey)
 [![C2PA](https://img.shields.io/badge/C2PA-org%20member-1a1a2e?style=flat-square)](https://github.com/c2pa-org)
+[![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/1922144?label=reputation&logo=stackoverflow&logoColor=white&style=flat-square&color=F48024)](https://stackoverflow.com/users/1922144/david-condrey)
 
 [![Ko-fi](https://img.shields.io/badge/support-ko--fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/davidcondrey)
 [![PayPal](https://img.shields.io/badge/support-paypal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/davidcondrey)
