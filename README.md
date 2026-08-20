@@ -2,6 +2,7 @@
 
 # David Condrey
 
+Writer, developer, Marine Corps vet.
 Content provenance, AI agent tooling, and applied ML.
 
 [![Email](https://img.shields.io/badge/email-david%40writerslogic.com-informational?style=flat-square)](mailto:david@writerslogic.com)
