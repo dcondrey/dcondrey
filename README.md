@@ -78,7 +78,7 @@ Competitive results in AI-text detection and authorship analysis:
 ### Repo traffic (last 14 days)
 
 <!-- TRAFFIC:START -->
-![14-day views](https://img.shields.io/badge/14d%20views-153-2ea44f?style=flat-square&logo=github) ![14-day clones](https://img.shields.io/badge/14d%20clones-757-2ea44f?style=flat-square&logo=github) _aggregated across 40 repos_
+_Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` repo secret to enable this._
 <!-- TRAFFIC:END -->
 
 ### Latest from the blog
