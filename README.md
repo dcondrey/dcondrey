@@ -93,6 +93,7 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 
 <!-- ACTIVITY:START -->
 - Opened PR in [dcondrey/buildingforgood](https://github.com/dcondrey/buildingforgood)
+- Released in [dcondrey/ai-disclosure-badges](https://github.com/dcondrey/ai-disclosure-badges)
 <!-- ACTIVITY:END -->
 
 ### GitHub
