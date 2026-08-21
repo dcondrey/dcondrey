@@ -92,10 +92,7 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Opened PR in [dcondrey/ai-disclosure-badges](https://github.com/dcondrey/ai-disclosure-badges)
-- Opened issue in [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails)
-- Opened PR in [writerslogic/onrecord](https://github.com/writerslogic/onrecord)
-- Opened issue in [writerslogic/onrecord](https://github.com/writerslogic/onrecord)
+- Opened issue in [dcondrey/buildingforgood](https://github.com/dcondrey/buildingforgood)
 <!-- ACTIVITY:END -->
 
 ### GitHub
