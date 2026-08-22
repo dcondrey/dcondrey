@@ -11,7 +11,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/dcondrey?label=followers&style=flat-square)](https://github.com/dcondrey?tab=followers)
 <!-- STARS:START -->
-[![Total Stars](https://img.shields.io/badge/total%20stars-188-yellow?style=flat-square&logo=github)](https://github.com/dcondrey?tab=repositories&sort=stargazers)
+[![Total Stars](https://img.shields.io/badge/total%20stars-189-yellow?style=flat-square&logo=github)](https://github.com/dcondrey?tab=repositories&sort=stargazers)
 <!-- STARS:END -->
 [![Profile views](https://komarev.com/ghpvc/?username=dcondrey&style=flat-square&color=blue&label=profile+views)](https://github.com/dcondrey)
 [![IETF Datatracker](https://img.shields.io/badge/IETF-4%20active%20drafts-0055A4?style=flat-square)](https://datatracker.ietf.org/person/David%20Condrey)
@@ -92,7 +92,9 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-_No recent public activity._
+- Opened PR in [dcondrey/html-email](https://github.com/dcondrey/html-email)
+- Opened PR in [brandonhimpfen/awesome-github-actions](https://github.com/brandonhimpfen/awesome-github-actions)
+- Opened PR in [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
 <!-- ACTIVITY:END -->
 
 ### GitHub
