@@ -93,7 +93,6 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 
 <!-- ACTIVITY:START -->
 - Opened issue in [dcondrey/html-email](https://github.com/dcondrey/html-email)
-- Opened PR in [dcondrey/html-email](https://github.com/dcondrey/html-email)
 <!-- ACTIVITY:END -->
 
 ### GitHub
