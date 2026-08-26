@@ -93,7 +93,6 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 
 <!-- ACTIVITY:START -->
 - Opened PR in [writerslogic/facet](https://github.com/writerslogic/facet)
-- Opened PR in [writerslogic/scrivener-mcp](https://github.com/writerslogic/scrivener-mcp)
 <!-- ACTIVITY:END -->
 
 ### GitHub
