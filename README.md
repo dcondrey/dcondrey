@@ -92,7 +92,10 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 ### Recent activity
 
 <!-- ACTIVITY:START -->
+- Opened PR in [writerslogic/scrivener-mcp](https://github.com/writerslogic/scrivener-mcp)
 - Opened PR in [writerslogic/facet](https://github.com/writerslogic/facet)
+- Opened PR in [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory)
+- Opened PR in [dcondrey/crosstalk](https://github.com/dcondrey/crosstalk)
 <!-- ACTIVITY:END -->
 
 ### GitHub
