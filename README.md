@@ -11,7 +11,7 @@
 <!-- repo-header:end -->
 
 <!-- STARS:START -->
-[![Total Stars](https://img.shields.io/badge/total%20stars-190-yellow?style=flat-square&logo=github&labelColor=20232a)](https://github.com/dcondrey?tab=repositories&sort=stargazers)
+[![Total Stars](https://img.shields.io/badge/total%20stars-190-yellow?style=flat-square&logo=github)](https://github.com/dcondrey?tab=repositories&sort=stargazers)
 <!-- STARS:END -->
 [![Profile views](https://komarev.com/ghpvc/?username=dcondrey&style=flat-square&color=blue&label=profile+views)](https://github.com/dcondrey)
 [![IETF Datatracker](https://img.shields.io/badge/IETF-4%20active%20drafts-0055A4?style=flat-square&labelColor=20232a&color=6a4c93)](https://datatracker.ietf.org/person/David%20Condrey)
