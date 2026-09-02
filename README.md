@@ -1,26 +1,26 @@
-<div align="center">
+<!-- repo-header:start -->
+<img src="https://github.com/dcondrey.png?size=160" alt="David Condrey logo" width="120" align="left">
 
-# David Condrey
+<h1>David Condrey</h1>
 
-**Writer, developer, Marine Corps veteran.** Based in San Diego, building [WritersLogic](https://writerslogic.com) — local-first, cryptographic proof-of-authorship tools for writers — and individually authoring the [IETF drafts](https://datatracker.ietf.org/person/David%20Condrey) that formalize the protocol behind them. Contributes to C2PA and W3C standards work, builds open-source AI agent tooling, and competes in applied-ML research (PAN & CLEF).
-📍 San Diego, CA
+<p><strong>Profile README</strong></p>
 
-[![Website](https://img.shields.io/badge/writerslogic.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://writerslogic.com)
-[![Twitter](https://img.shields.io/badge/-@davidcondrey-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/davidcondrey)
-[![Email](https://img.shields.io/badge/email-david%40writerslogic.com-informational?style=flat-square)](mailto:david@writerslogic.com)
+<br clear="left">
 
-[![GitHub followers](https://img.shields.io/github/followers/dcondrey?label=followers&style=flat-square)](https://github.com/dcondrey?tab=followers)
+[![CI](https://img.shields.io/github/actions/workflow/status/dcondrey/dcondrey/update-readme.yml?style=flat-square&labelColor=20232a&branch=main&label=CI)](https://github.com/dcondrey/dcondrey/actions/workflows/update-readme.yml) [![Best Practices Evidence](https://img.shields.io/badge/best%20practices-evidence%20reviewed-6a4c93?style=flat-square&labelColor=20232a)](.bestpractices.json) [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=flat-square&labelColor=20232a)](https://github.com/sponsors/dcondrey) [![Website](https://img.shields.io/badge/writerslogic.com-000000?style=flat-square&logo=googlechrome&logoColor=white&labelColor=20232a)](https://writerslogic.com) [![Twitter](https://img.shields.io/badge/-@davidcondrey-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=20232a)](https://twitter.com/davidcondrey) [![Email](https://img.shields.io/badge/email-david%40writerslogic.com-informational?style=flat-square&labelColor=20232a&color=1abc9c)](mailto:david@writerslogic.com)
+<!-- repo-header:end -->
+
 <!-- STARS:START -->
-[![Total Stars](https://img.shields.io/badge/total%20stars-190-yellow?style=flat-square&logo=github)](https://github.com/dcondrey?tab=repositories&sort=stargazers)
+[![Total Stars](https://img.shields.io/badge/total%20stars-190-yellow?style=flat-square&logo=github&labelColor=20232a)](https://github.com/dcondrey?tab=repositories&sort=stargazers)
 <!-- STARS:END -->
 [![Profile views](https://komarev.com/ghpvc/?username=dcondrey&style=flat-square&color=blue&label=profile+views)](https://github.com/dcondrey)
-[![IETF Datatracker](https://img.shields.io/badge/IETF-4%20active%20drafts-0055A4?style=flat-square)](https://datatracker.ietf.org/person/David%20Condrey)
-[![C2PA](https://img.shields.io/badge/C2PA-org%20member-1a1a2e?style=flat-square)](https://github.com/c2pa-org)
-[![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/1922144?label=reputation&logo=stackoverflow&logoColor=white&style=flat-square&color=F48024)](https://stackoverflow.com/users/1922144/david-condrey)
+[![IETF Datatracker](https://img.shields.io/badge/IETF-4%20active%20drafts-0055A4?style=flat-square&labelColor=20232a&color=6a4c93)](https://datatracker.ietf.org/person/David%20Condrey)
+[![C2PA](https://img.shields.io/badge/C2PA-org%20member-1a1a2e?style=flat-square&labelColor=20232a&color=6a4c93)](https://github.com/c2pa-org)
+[![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/1922144?label=reputation&logo=stackoverflow&logoColor=white&style=flat-square&color=F48024&labelColor=20232a)](https://stackoverflow.com/users/1922144/david-condrey)
 
-[![Ko-fi](https://img.shields.io/badge/support-ko--fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/davidcondrey)
-[![PayPal](https://img.shields.io/badge/support-paypal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/davidcondrey)
-[![Buy Me a Coffee](https://img.shields.io/badge/support-buy--me--a--coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/davidcondrey)
+[![Ko-fi](https://img.shields.io/badge/support-ko--fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white&labelColor=20232a&color=FF5E5B)](https://ko-fi.com/davidcondrey)
+[![PayPal](https://img.shields.io/badge/support-paypal-00457C?style=flat-square&logo=paypal&logoColor=white&labelColor=20232a&color=0070BA)](https://www.paypal.com/paypalme/davidcondrey)
+[![Buy Me a Coffee](https://img.shields.io/badge/support-buy--me--a--coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black&labelColor=20232a)](https://buymeacoffee.com/davidcondrey)
 
 </div>
 
