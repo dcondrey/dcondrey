@@ -94,7 +94,6 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 <!-- ACTIVITY:START -->
 - Opened PR in [dcondrey/crosstalk](https://github.com/dcondrey/crosstalk)
 - Opened PR in [dcondrey/buildingforgood](https://github.com/dcondrey/buildingforgood)
-- Opened PR in [dcondrey/blindmind](https://github.com/dcondrey/blindmind)
 <!-- ACTIVITY:END -->
 
 ### GitHub
