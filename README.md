@@ -97,6 +97,7 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 ### Recent activity
 
 <!-- ACTIVITY:START -->
+- Opened PR in [dcondrey/html-email](https://github.com/dcondrey/html-email)
 - Opened PR in [trustoverip/dtgwg-trust-tasks-tf](https://github.com/trustoverip/dtgwg-trust-tasks-tf)
 <!-- ACTIVITY:END -->
 
