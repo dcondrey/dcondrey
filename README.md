@@ -1,14 +1,19 @@
 <!-- repo-header:start -->
-<img src="https://github.com/dcondrey.png?size=160" alt="David Condrey logo" width="120" align="left">
+<h3 align="center">David Condrey</h3>
 
-<h1>David Condrey</h1>
+<p align="center"><strong>Profile README</strong></p>
 
-<p><strong>Profile README</strong></p>
-
-<br clear="left">
-
-[![CI](https://img.shields.io/github/actions/workflow/status/dcondrey/dcondrey/update-readme.yml?style=flat-square&labelColor=20232a&branch=main&label=CI)](https://github.com/dcondrey/dcondrey/actions/workflows/update-readme.yml) [![Best Practices Evidence](https://img.shields.io/badge/best%20practices-evidence%20reviewed-6a4c93?style=flat-square&labelColor=20232a)](.bestpractices.json) [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=flat-square&labelColor=20232a)](https://github.com/sponsors/dcondrey) [![Website](https://img.shields.io/badge/writerslogic.com-000000?style=flat-square&logo=googlechrome&logoColor=white&labelColor=20232a)](https://writerslogic.com) [![Twitter](https://img.shields.io/badge/-@davidcondrey-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=20232a)](https://twitter.com/davidcondrey) [![Email](https://img.shields.io/badge/email-david%40writerslogic.com-informational?style=flat-square&labelColor=20232a&color=1abc9c)](mailto:david@writerslogic.com)
+<p align="center">
+  <a href="https://github.com/dcondrey/dcondrey/actions/workflows/update-readme.yml"><img src="https://img.shields.io/github/actions/workflow/status/dcondrey/dcondrey/update-readme.yml?style=flat-square&labelColor=20232a&branch=main&label=CI" alt="CI"></a>
+  <a href=".bestpractices.json"><img src="https://img.shields.io/badge/best%20practices-evidence%20reviewed-6a4c93?style=flat-square&labelColor=20232a" alt="Best Practices Evidence"></a>
+  <a href="https://github.com/sponsors/dcondrey"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=flat-square&labelColor=20232a" alt="GitHub Sponsors"></a>
+  <a href="https://writerslogic.com"><img src="https://img.shields.io/badge/writerslogic.com-000000?style=flat-square&logo=googlechrome&logoColor=white&labelColor=20232a" alt="Website"></a>
+  <a href="https://twitter.com/davidcondrey"><img src="https://img.shields.io/badge/-@davidcondrey-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=20232a" alt="Twitter"></a>
+  <a href="mailto:david@writerslogic.com"><img src="https://img.shields.io/badge/email-david%40writerslogic.com-informational?style=flat-square&labelColor=20232a&color=1abc9c" alt="Email"></a>
+</p>
 <!-- repo-header:end -->
+
+---
 
 <!-- STARS:START -->
 [![Total Stars](https://img.shields.io/badge/total%20stars-191-yellow?style=flat-square&logo=github)](https://github.com/dcondrey?tab=repositories&sort=stargazers)
