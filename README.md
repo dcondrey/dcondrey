@@ -97,7 +97,8 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Opened PR in [writerslogic/scrivener-mcp](https://github.com/writerslogic/scrivener-mcp)
+- Opened issue in [writerslogic/narrative-graph](https://github.com/writerslogic/narrative-graph)
+- Released in [writerslogic/narrative-graph](https://github.com/writerslogic/narrative-graph)
 <!-- ACTIVITY:END -->
 
 ### GitHub
