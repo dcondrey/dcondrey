@@ -97,6 +97,7 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 ### Recent activity
 
 <!-- ACTIVITY:START -->
+- Released in [writerslogic/narrative-graph](https://github.com/writerslogic/narrative-graph)
 - Opened issue in [writerslogic/narrative-graph](https://github.com/writerslogic/narrative-graph)
 <!-- ACTIVITY:END -->
 
