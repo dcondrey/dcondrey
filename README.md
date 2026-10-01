@@ -97,8 +97,11 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Made [dcondrey/audio-provenance-wrapper-poc](https://github.com/dcondrey/audio-provenance-wrapper-poc) public
-- Opened PR in [jeremybboy/audio-provenance-wrapper-poc](https://github.com/jeremybboy/audio-provenance-wrapper-poc)
+- Opened PR in [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory)
+- Opened issue in [robinbryce/draft-bryce-cose-receipts-mmr-profile](https://github.com/robinbryce/draft-bryce-cose-receipts-mmr-profile)
+- Opened PR in [writerslogic/narrative-lens](https://github.com/writerslogic/narrative-lens)
+- Opened PR in [writerslogic/narrative-graph](https://github.com/writerslogic/narrative-graph)
+- Opened PR in [writerslogic/scrivener-mcp](https://github.com/writerslogic/scrivener-mcp)
 <!-- ACTIVITY:END -->
 
 ### GitHub
