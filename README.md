@@ -97,7 +97,11 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-_No recent public activity._
+- Opened PR in [writerslogic/c2pa-html](https://github.com/writerslogic/c2pa-html)
+- Opened PR in [writerslogic/c2pa-zip](https://github.com/writerslogic/c2pa-zip)
+- Opened PR in [writerslogic/c2pa-ml](https://github.com/writerslogic/c2pa-ml)
+- Opened PR in [writerslogic/c2pa-warc](https://github.com/writerslogic/c2pa-warc)
+- Opened PR in [writerslogic/c2pa-vtt](https://github.com/writerslogic/c2pa-vtt)
 <!-- ACTIVITY:END -->
 
 ### GitHub
