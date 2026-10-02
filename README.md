@@ -97,11 +97,11 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Opened PR in [writerslogic/c2pa-html](https://github.com/writerslogic/c2pa-html)
-- Opened PR in [writerslogic/c2pa-zip](https://github.com/writerslogic/c2pa-zip)
-- Opened PR in [writerslogic/c2pa-ml](https://github.com/writerslogic/c2pa-ml)
-- Opened PR in [writerslogic/c2pa-warc](https://github.com/writerslogic/c2pa-warc)
+- Opened PR in [sigstore/sigstore-rs](https://github.com/sigstore/sigstore-rs)
+- Opened PR in [PyO3/maturin](https://github.com/PyO3/maturin)
+- Opened PR in [google/coset](https://github.com/google/coset)
 - Opened PR in [writerslogic/c2pa-vtt](https://github.com/writerslogic/c2pa-vtt)
+- Opened PR in [writerslogic/c2pa-warc](https://github.com/writerslogic/c2pa-warc)
 <!-- ACTIVITY:END -->
 
 ### GitHub
