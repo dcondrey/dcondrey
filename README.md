@@ -98,6 +98,7 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 
 <!-- ACTIVITY:START -->
 - Opened PR in [dcondrey/html-email](https://github.com/dcondrey/html-email)
+- Opened PR in [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory)
 <!-- ACTIVITY:END -->
 
 ### GitHub
