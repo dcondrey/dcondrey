@@ -97,7 +97,7 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Opened PR in [contentauth/c2pa-rs](https://github.com/contentauth/c2pa-rs)
+- Opened PR in [tafia/calamine](https://github.com/tafia/calamine)
 <!-- ACTIVITY:END -->
 
 ### GitHub
