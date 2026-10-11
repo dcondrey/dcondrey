@@ -97,7 +97,7 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Opened PR in [decentralized-identity/didcomm-messaging](https://github.com/decentralized-identity/didcomm-messaging)
+_No recent public activity._
 <!-- ACTIVITY:END -->
 
 ### GitHub
