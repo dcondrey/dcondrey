@@ -89,9 +89,7 @@ _Not configured — add a classic PAT with `repo` scope as the `TRAFFIC_TOKEN` r
 ### Latest from the blog
 
 <!-- BLOG:START -->
-- [Write For Us](https://writerslogic.com/blog/write-for-us) — 2026-04-01
-- [Universities Rethinking AI Detection](https://writerslogic.com/blog/universities-rethinking-ai-detection) — 2026-03-29
-- [Stylometry Famous Cases](https://writerslogic.com/blog/stylometry-famous-cases) — 2026-03-23
+_No posts found._
 <!-- BLOG:END -->
 
 ### Recent activity
