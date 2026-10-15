@@ -95,7 +95,7 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-_No recent public activity._
+- Released in [dcondrey/onrecord](https://github.com/dcondrey/onrecord)
 <!-- ACTIVITY:END -->
 
 ### GitHub
