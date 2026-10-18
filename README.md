@@ -95,6 +95,7 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
+- Opened PR in [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory)
 - Released in [dcondrey/onrecord](https://github.com/dcondrey/onrecord)
 <!-- ACTIVITY:END -->
 
