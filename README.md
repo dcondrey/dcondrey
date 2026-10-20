@@ -95,8 +95,9 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
+- Opened PR in [mitchuski/dtgwg-zkp-mage](https://github.com/mitchuski/dtgwg-zkp-mage)
+- Opened PR in [trustoverip/dtgwg-zkp-tf](https://github.com/trustoverip/dtgwg-zkp-tf)
 - Opened PR in [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory)
-- Released in [dcondrey/onrecord](https://github.com/dcondrey/onrecord)
 <!-- ACTIVITY:END -->
 
 ### GitHub
