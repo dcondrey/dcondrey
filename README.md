@@ -95,8 +95,8 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Opened PR in [quickwit-oss/search-benchmark-game](https://github.com/quickwit-oss/search-benchmark-game)
 - Opened PR in [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory)
+- Opened PR in [vector-index-bench/vibe](https://github.com/vector-index-bench/vibe)
 <!-- ACTIVITY:END -->
 
 ### GitHub
