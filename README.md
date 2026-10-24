@@ -95,7 +95,7 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Opened PR in [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory)
+_No recent public activity._
 <!-- ACTIVITY:END -->
 
 ### GitHub
