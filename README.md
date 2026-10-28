@@ -95,7 +95,6 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Opened PR in [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory)
 - Opened PR in [writerslogic/scrivener-mcp](https://github.com/writerslogic/scrivener-mcp)
 <!-- ACTIVITY:END -->
 
