@@ -95,9 +95,7 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Opened PR in [writerslogic/scrivener-mcp](https://github.com/writerslogic/scrivener-mcp)
-- Opened issue in [writerslogic/narrative-lens](https://github.com/writerslogic/narrative-lens)
-- Opened PR in [writerslogic/narrative-lens](https://github.com/writerslogic/narrative-lens)
+_No recent public activity._
 <!-- ACTIVITY:END -->
 
 ### GitHub
