@@ -96,10 +96,8 @@ _No posts found._
 
 <!-- ACTIVITY:START -->
 - Opened PR in [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory)
-- Opened PR in [writerslogic/narrative-lens](https://github.com/writerslogic/narrative-lens)
 - Opened PR in [writerslogic/scrivener-mcp](https://github.com/writerslogic/scrivener-mcp)
-- Opened PR in [writerslogic/bluepencil](https://github.com/writerslogic/bluepencil)
-- Made [dcondrey/guillochestudio](https://github.com/dcondrey/guillochestudio) public
+- Opened PR in [writerslogic/narrative-lens](https://github.com/writerslogic/narrative-lens)
 <!-- ACTIVITY:END -->
 
 ### GitHub
