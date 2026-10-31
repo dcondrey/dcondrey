@@ -97,7 +97,6 @@ _No posts found._
 <!-- ACTIVITY:START -->
 - Opened PR in [trustoverip/dtgwg-trust-tasks-tf](https://github.com/trustoverip/dtgwg-trust-tasks-tf)
 - Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
-- Opened PR in [writerslogic/scrivener-mcp](https://github.com/writerslogic/scrivener-mcp)
 <!-- ACTIVITY:END -->
 
 ### GitHub
