@@ -95,8 +95,7 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
-- Opened PR in [WolframInstitute/Rule30PrizeKit](https://github.com/WolframInstitute/Rule30PrizeKit)
+_No recent public activity._
 <!-- ACTIVITY:END -->
 
 ### GitHub
