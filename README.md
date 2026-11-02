@@ -95,7 +95,6 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
 - Opened PR in [writerslogic/scrivener-mcp](https://github.com/writerslogic/scrivener-mcp)
 <!-- ACTIVITY:END -->
 
