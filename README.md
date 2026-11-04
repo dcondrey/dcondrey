@@ -95,9 +95,8 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
+- Released in [writerslogic/pre-merge-review-action](https://github.com/writerslogic/pre-merge-review-action)
 - Opened PR in [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-- Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
-- Opened PR in [LF-Decentralized-Trust-labs/proof-of-effort](https://github.com/LF-Decentralized-Trust-labs/proof-of-effort)
 <!-- ACTIVITY:END -->
 
 ### GitHub
