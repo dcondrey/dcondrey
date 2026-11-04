@@ -95,8 +95,8 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
+- Opened PR in [LF-Decentralized-Trust-labs/proof-of-effort](https://github.com/LF-Decentralized-Trust-labs/proof-of-effort)
 - Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
-- Opened PR in [writerslogic/scrivener-mcp](https://github.com/writerslogic/scrivener-mcp)
 <!-- ACTIVITY:END -->
 
 ### GitHub
