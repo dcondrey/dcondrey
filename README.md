@@ -96,7 +96,6 @@ _No posts found._
 
 <!-- ACTIVITY:START -->
 - Released in [writerslogic/pre-merge-review-action](https://github.com/writerslogic/pre-merge-review-action)
-- Opened PR in [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 <!-- ACTIVITY:END -->
 
 ### GitHub
