@@ -96,10 +96,7 @@ _No posts found._
 
 <!-- ACTIVITY:START -->
 - Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
-- Opened issue in [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench)
-- Opened PR in [infino-ai/open-vdbbench](https://github.com/infino-ai/open-vdbbench)
-- Opened PR in [infino-ai/VectorDBBench](https://github.com/infino-ai/VectorDBBench)
-- Opened PR in [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench)
+- Opened issue in [jamjet-labs/engram](https://github.com/jamjet-labs/engram)
 <!-- ACTIVITY:END -->
 
 ### GitHub
