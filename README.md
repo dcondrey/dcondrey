@@ -95,9 +95,9 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Released in [writerslogic/ai-agents-mcp](https://github.com/writerslogic/ai-agents-mcp)
 - Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
-- Opened issue in [jamjet-labs/engram](https://github.com/jamjet-labs/engram)
+- Opened PR in [ArcedeDev/open-402](https://github.com/ArcedeDev/open-402)
+- Released in [writerslogic/ai-agents-mcp](https://github.com/writerslogic/ai-agents-mcp)
 <!-- ACTIVITY:END -->
 
 ### GitHub
