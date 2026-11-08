@@ -96,8 +96,6 @@ _No posts found._
 
 <!-- ACTIVITY:START -->
 - Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
-- Opened PR in [ArcedeDev/open-402](https://github.com/ArcedeDev/open-402)
-- Released in [writerslogic/ai-agents-mcp](https://github.com/writerslogic/ai-agents-mcp)
 <!-- ACTIVITY:END -->
 
 ### GitHub
