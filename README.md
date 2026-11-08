@@ -96,6 +96,8 @@ _No posts found._
 
 <!-- ACTIVITY:START -->
 - Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
+- Opened PR in [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3)
+- Opened PR in [timothee-haudebourg/static-regular-grammar](https://github.com/timothee-haudebourg/static-regular-grammar)
 <!-- ACTIVITY:END -->
 
 ### GitHub
