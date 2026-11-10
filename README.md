@@ -95,9 +95,6 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Opened PR in [google-deepmind/formal-conjectures](https://github.com/google-deepmind/formal-conjectures)
-- Opened issue in [google-deepmind/formal-conjectures](https://github.com/google-deepmind/formal-conjectures)
-- Opened PR in [WolframInstitute/Rule30PrizeKit](https://github.com/WolframInstitute/Rule30PrizeKit)
 - Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
 <!-- ACTIVITY:END -->
 
