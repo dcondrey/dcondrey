@@ -95,8 +95,8 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Opened PR in [harsha-simhadri/big-ann-benchmarks](https://github.com/harsha-simhadri/big-ann-benchmarks)
 - Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
+- Opened PR in [harsha-simhadri/big-ann-benchmarks](https://github.com/harsha-simhadri/big-ann-benchmarks)
 <!-- ACTIVITY:END -->
 
 ### GitHub
