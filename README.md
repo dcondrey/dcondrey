@@ -96,9 +96,6 @@ _No posts found._
 
 <!-- ACTIVITY:START -->
 - Opened PR in [writerslogic/scrivener-mcp](https://github.com/writerslogic/scrivener-mcp)
-- Opened PR in [writerslogic/writerslogic.github.io](https://github.com/writerslogic/writerslogic.github.io)
-- Released in [writerslogic/warm](https://github.com/writerslogic/warm)
-- Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
 <!-- ACTIVITY:END -->
 
 ### GitHub
