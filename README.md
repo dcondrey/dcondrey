@@ -95,8 +95,8 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
+- Opened PR in [WolframInstitute/Rule30PrizeKit](https://github.com/WolframInstitute/Rule30PrizeKit)
 - Opened PR in [writerslogic/narrative-graph](https://github.com/writerslogic/narrative-graph)
-- Released in [writerslogic/warm](https://github.com/writerslogic/warm)
 <!-- ACTIVITY:END -->
 
 ### GitHub
