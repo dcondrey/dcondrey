@@ -95,7 +95,8 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-_No recent public activity._
+- Opened PR in [writerslogic/narrative-graph](https://github.com/writerslogic/narrative-graph)
+- Released in [writerslogic/warm](https://github.com/writerslogic/warm)
 <!-- ACTIVITY:END -->
 
 ### GitHub
