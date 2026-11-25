@@ -96,9 +96,6 @@ _No posts found._
 
 <!-- ACTIVITY:START -->
 - Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
-- Released in [writerslogic/narrative-graph](https://github.com/writerslogic/narrative-graph)
-- Opened PR in [writerslogic/narrative-graph](https://github.com/writerslogic/narrative-graph)
-- Opened PR in [infino-ai/search-benchmark-game](https://github.com/infino-ai/search-benchmark-game)
 <!-- ACTIVITY:END -->
 
 ### GitHub
