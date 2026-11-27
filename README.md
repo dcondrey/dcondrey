@@ -95,7 +95,7 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
+_No recent public activity._
 <!-- ACTIVITY:END -->
 
 ### GitHub
