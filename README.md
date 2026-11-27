@@ -96,7 +96,6 @@ _No posts found._
 
 <!-- ACTIVITY:START -->
 - Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
-- Released in [writerslogic/warm](https://github.com/writerslogic/warm)
 <!-- ACTIVITY:END -->
 
 ### GitHub
