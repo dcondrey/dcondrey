@@ -95,7 +95,8 @@ _No posts found._
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-_No recent public activity._
+- Opened PR in [trustoverip/dtgwg-trust-tasks-tf](https://github.com/trustoverip/dtgwg-trust-tasks-tf)
+- Opened PR in [writerslogic/warm](https://github.com/writerslogic/warm)
 <!-- ACTIVITY:END -->
 
 ### GitHub
